@@ -4,4 +4,4 @@ def using_for
 	for number in checklist
 	  puts "Wingardium Leviosa"
 end
-
+end
